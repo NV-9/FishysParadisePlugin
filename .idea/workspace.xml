@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c49d252-b095-4294-b9ba-0c9636401b36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/fishysparadise/mc/Bot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/fishysparadise/mc/Core.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/fishysparadise/mc/commands/HomeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/fishysparadise/mc/commands/SetHomeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/fishysparadise/mc/entities/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/fishysparadise/mc/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-    </list>
+    <list default="true" id="2c49d252-b095-4294-b9ba-0c9636401b36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +60,7 @@
       <workItem from="1676477797817" duration="4793000" />
       <workItem from="1676501959423" duration="9460000" />
       <workItem from="1676539756149" duration="3114000" />
-      <workItem from="1676553105137" duration="6598000" />
+      <workItem from="1676553105137" duration="6820000" />
     </task>
     <servers />
   </component>
