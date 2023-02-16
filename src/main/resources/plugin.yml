@@ -1,0 +1,14 @@
+name: FishysParadise
+version: '${project.version}'
+main: net.fishysparadise.mc.Core
+prefix: FishysParadise
+description: Custom Plugin for Fishys Paradise
+api-version: 1.19
+website: https://github.com/NV-9/FishysParadisePlugin
+commands:
+  sethome:
+    description: Sets the users home to their current coordinates
+    usage: /<command>
+  home:
+    description: Teleports a user to their set home
+    usage: /<command>
