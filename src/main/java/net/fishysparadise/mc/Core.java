@@ -169,14 +169,9 @@ public class Core extends JavaPlugin implements Listener {
 
     @EventHandler
     public void onPlayerDeath(PlayerDeathEvent event) {
+        discordBot.sendSanitisedMessageToDiscord(event.getEntity().getPlayer(), "*" + event.getDeathMessage().toString() + "*");
 
     }
-
-    @EventHandler
-    public void onEntityDeath(EntityDeathEvent event) {
-        event.getEventName();
-    }
-
 
 
 
