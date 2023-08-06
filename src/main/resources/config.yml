@@ -1,0 +1,14 @@
+STORAGE:
+  USERNAME: null
+  PASSWORD: null
+  ADDRESS: null
+  DATABASE: null
+  RECREATE: false
+  CHECK: false
+DISCORD:
+  CHANNEL: null
+  WEBHOOK: null
+  TOKEN: null
+MINECRAFT:
+  AVATAR: "https://mc-heads.net/avatar/%s"
+  DEATH-PORTION: 0.5

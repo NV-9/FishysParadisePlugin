@@ -1,0 +1,23 @@
+name: FishysParadisePlugin
+version: '${project.version}'
+main: fun.fishysparadise.mc.FishysParadisePlugin
+api-version: '1.20'
+prefix: FishysParadisePlugin
+description: Custom Plugin for Fishy's Paradise Server
+depend: [ LuckPerms, Vault ]
+commands:
+  verify:
+    description: Verify yourself
+    usage: /<command> [Access Token]
+  sethome:
+    description: Sets the users home to the current coordinates
+    usage: /<command>
+  home:
+    description: Teleports the user to their set home
+    usage: /<command>
+  clearweather:
+    description: Clears the weather
+    usage: /<command>
+    aliases:
+      - cw
+      - clearw
